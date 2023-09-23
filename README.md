@@ -13,5 +13,4 @@ Solutions for LeetCode Challenges of Python
 06. [Zigzag Conversion](06.ZigzagConversion.py)
 07. [Reverse Integer](07.ReverseInteger.py)
 
-
 This Solution set is authored by myself when I was solving some of Python problems, It is not a complete set - A work in Progress.
